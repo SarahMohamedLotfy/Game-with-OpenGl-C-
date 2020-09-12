@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Users/linvovo/Downloads/Graphics Projecttttt/Assignment3/vendor/glfw/CMakeLists.txt
+C:/Users/linvovo/Downloads/Graphics Projecttttt/Assignment3/vendor/glfw/src/glfw3.pc.in
+C:/Users/linvovo/Downloads/Graphics Projecttttt/Assignment3/vendor/glfw/src/glfw3Config.cmake.in
+C:/Users/linvovo/Downloads/Graphics Projecttttt/Assignment3/vendor/glfw/src/glfw_config.h.in
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/CMakePackageConfigHelpers.cmake
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/CheckIncludeFile.c.in
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/CheckIncludeFile.cmake
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/CheckLibraryExists.cmake
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/CheckSymbolExists.cmake
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/FindPackageHandleStandardArgs.cmake
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/FindPackageMessage.cmake
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/FindThreads.cmake
+D:/New folder (5)/Downloads and documents old/cmake-3.13.0-rc3-win64-x64/cmake-3.13.0-rc3-win64-x64/share/cmake-3.13/Modules/WriteBasicConfigVersionFile.cmake
